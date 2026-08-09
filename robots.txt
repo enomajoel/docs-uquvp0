@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-lz7nof.saturadar88win.cfd/sitemap.xml
